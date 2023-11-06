@@ -2,7 +2,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Mohamed Essam's profile!
+  Welcome to Mohamed Essam's profile!👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -38,7 +38,3 @@
 ![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access%20-05122A?style=flat&logo=microsoft-access)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux%20-05122A?style=flat&logo=kali-linux)
 ![League of Legends](https://img.shields.io/badge/-League%20of%20Legends-05122A?style=flat&logo=league-of-legends&logoColor=FFA500)
-
-
-
-
