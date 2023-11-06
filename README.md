@@ -32,6 +32,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)
+![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word%20-05122A?style=flat&logo=microsoft-word)
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel%20-05122A?style=flat&logo=microsoft-excel)
+![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint%20-05122A?style=flat&logo=microsoft-powerpoint)
+![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access%20-05122A?style=flat&logo=microsoft-access)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux%20-05122A?style=flat&logo=kali-linux)
 ![League of Legends](https://img.shields.io/badge/-League%20of%20Legends-05122A?style=flat&logo=league-of-legends&logoColor=FFA500)
 
 
